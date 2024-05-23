@@ -32,3 +32,4 @@ fetchData(`${API}/products`, (error1, data1) => {
   });
 });
 
+
