@@ -1,0 +1,14 @@
+{
+  "name": "asincronismo-javascript-platzi",
+  "version": "1.0.0",
+  "description": "Here I will put all my code from the Asincronismo JavaScript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "HieloElemental hieloelemental@gmail.com",
+  "license": "MIT"
+}
