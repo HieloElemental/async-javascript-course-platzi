@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo-javascript-platzi",
+  "version": "1.0.0",
+  "description": "Here I will put all my code from the Asincronismo JavaScript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieloElemental/Asincronismo-JavaScript-Platzi/tree/landing"
+  },
+  "keywords": [],,
+  "author": "Hielo Elemental",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieloElemental/Asincronismo-JavaScript-Platzi#readme"
+  },
+  "homepage": ""
+}
