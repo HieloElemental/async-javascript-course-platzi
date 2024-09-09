@@ -1,5 +1,5 @@
 {
-  "name": "asincronismo-javascript-platzi",
+  "name": "async-javascript-course-platzi",
   "version": "1.0.0",
   "description": "Here I will put all my code from the Asincronismo JavaScript course",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HieloElemental/Asincronismo-JavaScript-Platzi/tree/landing"
+    "url": "git+https://github.com/HieloElemental/async-javascript-course-platzi/tree/landing"
   },
   "keywords": [],
   "author": "Hielo Elemental",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HieloElemental/Asincronismo-JavaScript-Platzi#readme"
+    "url": "https://github.com/HieloElemental/async-javascript-course-platzi#readme"
   },
   "homepage": "",
   "devDependencies": {
